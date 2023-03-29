@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/forestpemarvel/static/css/main.a20d106a.chunk.css",
+    "main.js": "/forestpemarvel/static/js/main.1915c4d3.chunk.js",
+    "main.js.map": "/forestpemarvel/static/js/main.1915c4d3.chunk.js.map",
+    "runtime-main.js": "/forestpemarvel/static/js/runtime-main.13219a44.js",
+    "runtime-main.js.map": "/forestpemarvel/static/js/runtime-main.13219a44.js.map",
+    "static/js/2.1fda496d.chunk.js": "/forestpemarvel/static/js/2.1fda496d.chunk.js",
+    "static/js/2.1fda496d.chunk.js.map": "/forestpemarvel/static/js/2.1fda496d.chunk.js.map",
+    "static/css/3.035e8b93.chunk.css": "/forestpemarvel/static/css/3.035e8b93.chunk.css",
+    "static/js/3.68b8a83d.chunk.js": "/forestpemarvel/static/js/3.68b8a83d.chunk.js",
+    "static/js/3.68b8a83d.chunk.js.map": "/forestpemarvel/static/js/3.68b8a83d.chunk.js.map",
+    "static/css/4.18e2f0da.chunk.css": "/forestpemarvel/static/css/4.18e2f0da.chunk.css",
+    "static/js/4.d3184ee3.chunk.js": "/forestpemarvel/static/js/4.d3184ee3.chunk.js",
+    "static/js/4.d3184ee3.chunk.js.map": "/forestpemarvel/static/js/4.d3184ee3.chunk.js.map",
+    "static/css/5.7cf17460.chunk.css": "/forestpemarvel/static/css/5.7cf17460.chunk.css",
+    "static/js/5.a22a99ff.chunk.js": "/forestpemarvel/static/js/5.a22a99ff.chunk.js",
+    "static/js/5.a22a99ff.chunk.js.map": "/forestpemarvel/static/js/5.a22a99ff.chunk.js.map",
+    "static/js/6.9daac502.chunk.js": "/forestpemarvel/static/js/6.9daac502.chunk.js",
+    "static/js/6.9daac502.chunk.js.map": "/forestpemarvel/static/js/6.9daac502.chunk.js.map",
+    "index.html": "/forestpemarvel/index.html",
+    "static/css/3.035e8b93.chunk.css.map": "/forestpemarvel/static/css/3.035e8b93.chunk.css.map",
+    "static/css/4.18e2f0da.chunk.css.map": "/forestpemarvel/static/css/4.18e2f0da.chunk.css.map",
+    "static/css/5.7cf17460.chunk.css.map": "/forestpemarvel/static/css/5.7cf17460.chunk.css.map",
+    "static/css/main.a20d106a.chunk.css.map": "/forestpemarvel/static/css/main.a20d106a.chunk.css.map",
+    "static/js/2.1fda496d.chunk.js.LICENSE.txt": "/forestpemarvel/static/js/2.1fda496d.chunk.js.LICENSE.txt",
+    "static/media/Avengers.4065c8f9.png": "/forestpemarvel/static/media/Avengers.4065c8f9.png",
+    "static/media/Avengers_logo.9eaf2193.png": "/forestpemarvel/static/media/Avengers_logo.9eaf2193.png",
+    "static/media/error.42292aa1.gif": "/forestpemarvel/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/forestpemarvel/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/forestpemarvel/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13219a44.js",
+    "static/js/2.1fda496d.chunk.js",
+    "static/css/main.a20d106a.chunk.css",
+    "static/js/main.1915c4d3.chunk.js"
+  ]
+}
